@@ -1,0 +1,12 @@
+[submodule "audioresizer"]
+	path = audioresizer
+	url = ./audioresizer/
+[submodule "csv-parser"]
+	path = csv-parser
+	url = ./csv-parser/
+[submodule "dictionary"]
+	path = dictionary
+	url = ./dictionary/
+[submodule "rtree"]
+	path = rtree
+	url = ./rtree/
