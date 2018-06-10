@@ -1,0 +1,12 @@
+[submodule "audioresizer"]
+	path = audioresizer
+	url = git@github.com:2-men-team/wav-resizer.git
+[submodule "csv-parser"]
+	path = csv-parser
+	url = git@github.com:ProgramEngineeringKPI/assignment-1-2-men-team.git
+[submodule "dictionary"]
+	path = dictionary
+	url = git@github.com:2-men-team/dictionary.git
+[submodule "rtree"]
+	path = rtree
+	url = git@github.com:Vasniktel/rtree.git
